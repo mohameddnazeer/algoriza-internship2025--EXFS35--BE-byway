@@ -7,7 +7,7 @@ A modern  API built with ASP.NET Core 9.0, Entity Framework Core, and SQLite. Th
 ## 📄 License to Login
 
 login by admin role => admin@byway.com for mail and Admin123! for password
-login by user role => user1@byway.com for mail and User@123 for password
+login by user role => mohamed55nazeer55@gmail.com for mail and Nazeer@123 for password
 
 
 ## 🚀 Features
